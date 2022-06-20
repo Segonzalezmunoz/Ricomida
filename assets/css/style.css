@@ -1,0 +1,78 @@
+
+
+
+.logoRicomida { 
+    font-family: lobster;
+    font-size: 3rem;
+    color: #fff;
+
+}
+
+.chicago{
+    font-size: 3rem;
+    color: #373A3C;
+}
+
+
+section .pizza{
+ width: 35rem;
+
+}
+
+article{
+
+    font-family: Cabin;
+    font-style: normal;
+    font-size: 20pt;
+    text-align: left;
+    color: #373A3C;
+
+}
+
+.div {
+
+    color: red;
+}
+
+
+#recetas{
+    font-family: Cabin;
+    font-size: 40pt;
+}
+
+.card-title{
+
+    background-color: #fff;
+    border: #fff;
+    font-family: Cabin;
+    font-size: 18pt; 
+    text-align: left;
+}
+
+
+   
+
+.section2 {
+    background: #DC3545;
+    color: white;
+    text-align: center;
+    padding: 10rem;
+}
+
+.suscribete{
+    font-size: 3rem;
+}
+
+.obten{
+    font-size: 2rem;
+}
+
+
+
+
+footer{
+    background: #373A3C;
+    color: white;
+    text-align: center;
+    
+}
